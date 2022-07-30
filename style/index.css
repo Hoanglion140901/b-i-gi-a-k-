@@ -8,7 +8,11 @@ button {
     display: inline-block;
     padding: 10px 20px;
 }
-
+.main{
+    width: 100%;
+    height: 200px;
+    background-color: rgb(179, 191, 52);
+}
 .box{
     width: 100%;
     height: 100px;
